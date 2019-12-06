@@ -1,6 +1,6 @@
 console.log('');
 var contador = 0;
-while (contador <= 10) {
+while (contador <= 11) {
   console.log(' ' + contador);
   contador++;
 }
